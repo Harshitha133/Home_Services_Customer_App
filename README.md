@@ -1,4 +1,4 @@
-# Home Services App (Door Service)
+# Home Services App 
 
 ## Project Overview
 
